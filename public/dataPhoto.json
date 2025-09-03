@@ -6,7 +6,7 @@
     "hora": "INDEFINITE",
     "tamanho": "483 KB",
     "formato": "JPG",
-    "photo": "/Imagens/PHOTOGRAPHY_1.png"
+    "photo": "Imagens/PHOTOGRAPHY_1.png"
   },
   {
     "id": "02",
@@ -15,7 +15,7 @@
     "hora": "20:46",
     "tamanho": "1.30 MB",
     "formato": "JPG",
-    "photo": "/Imagens/PHOTOGRAPHY_2.png"
+    "photo": "Imagens/PHOTOGRAPHY_2.png"
   },
   {
     "id": "03",
@@ -24,7 +24,7 @@
     "hora": "13:45",
     "tamanho": "402.03 KB",
     "formato": "JPG",
-    "photo": "/Imagens/PHOTOGRAPHY_3.png"
+    "photo": "Imagens/PHOTOGRAPHY_3.png"
   },
   {
     "id": "04",
@@ -33,7 +33,7 @@
     "hora": "19:03",
     "tamanho": "97.10 kb",
     "formato": "JPG",
-    "photo": "/Imagens/PHOTOGRAPHY_4.png"
+    "photo": "Imagens/PHOTOGRAPHY_4.png"
   },
   {
     "id": "05",
@@ -42,7 +42,7 @@
     "hora": "21:56",
     "tamanho": "37.65 kb",
     "formato": "JPG",
-    "photo": "/Imagens/PHOTOGRAPHY_5.png"
+    "photo": "Imagens/PHOTOGRAPHY_5.png"
   },
   {
     "id": "06",
@@ -51,7 +51,7 @@
     "hora": "20:28",
     "tamanho": "45.50 KB",
     "formato": "JPG",
-    "photo": "/Imagens/PHOTOGRAPHY_3.png"
+    "photo": "Imagens/PHOTOGRAPHY_3.png"
   },
   {
     "id": "07",
@@ -60,7 +60,7 @@
     "hora": "21:06",
     "tamanho": "51.93 KB",
     "formato": "JPG",
-    "photo": "/Imagens/PHOTOGRAPHY_7.png"
+    "photo": "Imagens/PHOTOGRAPHY_7.png"
   },
   {
     "id": "08",
@@ -69,7 +69,7 @@
     "hora": "INDEFINITE",
     "tamanho": "402 kb",
     "formato": "JPG",
-    "photo": "/Imagens/PHOTOGRAPHY_8.png"
+    "photo": "Imagens/PHOTOGRAPHY_8.png"
   },
   {
     "id": "09",
@@ -78,7 +78,7 @@
     "hora": "INDEFINITE",
     "tamanho": "402 kb",
     "formato": "JPG",
-    "photo": "/Imagens/PHOTOGRAPHY_9.png"
+    "photo": "Imagens/PHOTOGRAPHY_9.png"
   },
   {
     "id": "10",
@@ -87,7 +87,7 @@
     "hora": "11:58",
     "tamanho": "40.83 KB",
     "formato": "JPG",
-    "photo": "/Imagens/PHOTOGRAPHY_10.png"
+    "photo": "Imagens/PHOTOGRAPHY_10.png"
   },
   {
     "id": "11",
@@ -96,7 +96,7 @@
     "hora": "00:14",
     "tamanho": "4.70 MB",
     "formato": "JPG",
-    "photo": "/Imagens/PHOTOGRAPHY_11.png"
+    "photo": "Imagens/PHOTOGRAPHY_11.png"
   },
   {
     "id": "12",
@@ -105,7 +105,7 @@
     "hora": "INDEFINITE",
     "tamanho": "402 kb",
     "formato": "JPG",
-    "photo": "/Imagens/PHOTOGRAPHY_12.png"
+    "photo": "Imagens/PHOTOGRAPHY_12.png"
   },
   {
     "id": "13",
@@ -114,7 +114,7 @@
     "hora": "20:55",
     "tamanho": "3.17 MB",
     "formato": "JPG",
-    "photo": "/Imagens/PHOTOGRAPHY_13.png"
+    "photo": "Imagens/PHOTOGRAPHY_13.png"
   },
   {
     "id": "14",
@@ -123,7 +123,7 @@
     "hora": "INDEFINITE",
     "tamanho": "402 kb",
     "formato": "JPG",
-    "photo": "/Imagens/PHOTOGRAPHY_3.png"
+    "photo": "Imagens/PHOTOGRAPHY_3.png"
   },
   {
     "id": "15",
@@ -132,7 +132,7 @@
     "hora": "13:59",
     "tamanho": "74.97 KB",
     "formato": "JPG",
-    "photo": "/Imagens/PHOTOGRAPHY_15.png"
+    "photo": "Imagens/PHOTOGRAPHY_15.png"
   },
   {
     "id": "16",
@@ -141,7 +141,7 @@
     "hora": "15:18",
     "tamanho": "11.49 MB",
     "formato": "JPG",
-    "photo": "/Imagens/PHOTOGRAPHY_16.png"
+    "photo": "Imagens/PHOTOGRAPHY_16.png"
   },
   {
     "id": "17",
@@ -150,7 +150,7 @@
     "hora": "21:35",
     "tamanho": "105.41 KB",
     "formato": "JPG",
-    "photo": "/Imagens/PHOTOGRAPHY_17.png"
+    "photo": "Imagens/PHOTOGRAPHY_17.png"
   },
   {
     "id": "18",
@@ -159,6 +159,6 @@
     "hora": "INDEFINITE",
     "tamanho": "402 kb",
     "formato": "JPG",
-    "photo": "/Imagens/PHOTOGRAPHY_3.png"
+    "photo": "Imagens/PHOTOGRAPHY_3.png"
   }
 ]
