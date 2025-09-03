@@ -1,0 +1,33 @@
+.photo{
+  display: flex;
+  position: fixed;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  justify-content: center;
+  align-items: center;
+  z-index: -1;
+}
+
+.imagem{
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  width: 600px;
+  height: 600px;
+  animation: mostraFoto .5s forwards;
+  transform:scale(1.2)
+}
+
+@keyframes mostraFoto {
+  to {
+     transform:scale(1)
+  }
+}
+
+@media (max-width: 600px) {
+  .imagem{
+    width: 300px;
+    height: 400px;
+  }
+}
