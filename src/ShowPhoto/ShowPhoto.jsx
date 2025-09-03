@@ -10,7 +10,7 @@ const ShowPhoto = ({ photogra }) => {
     <div className="photo">
       <div
         className="imagem"
-        style={{ backgroundImage: `url(${photo})` }}
+        style={{ backgroundImage: `url(${import.meta.env.BASE_URL}${photo})` }}
       ></div>
     </div>
   );
