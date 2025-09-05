@@ -16,8 +16,6 @@ html, body {
   background-image: url(../Img/background.png);
   font-family: 'Chathura', sans-serif;
   color: rgb(208, 248, 255);
-  font-size: 20px;
-  font-weight: 300;
   overflow-y: scroll;
 }
 
