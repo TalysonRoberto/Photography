@@ -14,7 +14,15 @@ const Photography = () => {
         if (!res.ok) throw new Error('Erro ao carregar projetos');
         return res.json();
       })
-      .then((data) => setPhoto(data))
+      .then((data) => {
+        setPhoto(data);
+
+        // pré-carregar as imagens
+        data.forEach((item) => {
+          const img = new Image();
+          img.src = item.photo;
+        });
+      })
       .catch((error) => console.error(error));
   }, []);
 
